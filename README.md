@@ -29,13 +29,13 @@ Now you should have all necessary Python software installed.
 
 Setup revearl.js
 
-From reveal.js installtion
+    From reveal.js installtion
 
-copy the following folders to decks/
-    * ccs/
-    * js/
-    * lib/
-    * plugin/
+    copy the following folders to decks/
+    - ccs/
+    - js/
+    - lib/
+    - plugin/
 
 For further convenience you should install [observr](https://github.com/kevinburke/observr/) 
 
