@@ -9,8 +9,7 @@ It also uses [Jinja](http://jinja.pocoo.org/) in order to split up the
 them to Github.
 
 note:
-1. In this template, I just fixed the string type problem in python3, the rest are the same as original author's.
-2. The presentation folder is no longer in the repository
+* In this template, I just fixed the string type problem in python3, the rest are the same as original author's.
 
 ## Installation
 
